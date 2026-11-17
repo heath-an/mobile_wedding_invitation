@@ -23,7 +23,7 @@ export const weddingConfig = {
   // 메인 화면
   main: {
     title: "Wedding Invitation",
-    image: "/images/ha0h-1fsi-bqt3.jpg",
+    image: "/images/wedding-character-transparent.png",
     date: "2027년 5월 30일 일요일 오후 2시",
     venue: "명동성당 파밀리아 채플"
   },
@@ -78,7 +78,7 @@ export const weddingConfig = {
       "/images/gallery/image6.jpg",
       "/images/gallery/image7.jpg",
       "/images/gallery/image8.jpg",
-      "/images/gallery/image9.jpg",
+      "/images/gallery/감사인사샘플이미지.jpg",
     ],
   } as GalleryConfig,
 
