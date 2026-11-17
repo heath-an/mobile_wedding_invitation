@@ -40,7 +40,7 @@ export const weddingConfig = {
     month: 5,
     day: 30,
     hour: 2,
-    minute: 00,
+    minute: 0,
     displayDate: "2027.05.30 SUN PM 2:00",
   },
 
@@ -67,8 +67,8 @@ export const weddingConfig = {
 
   // 갤러리
   gallery: {
-    layout: "grid" as GalleryLayout, // "scroll" 또는 "grid" 선택
-    position: "bottom" as GalleryPosition, // "middle" (현재 위치) 또는 "bottom" (맨 하단) 선택
+    layout: "grid", // "scroll" 또는 "grid" 선택
+    position: "bottom", // "middle" (현재 위치) 또는 "bottom" (맨 하단) 선택
     images: [
       "/images/gallery/image1.jpg",
       "/images/gallery/image2.jpg",
